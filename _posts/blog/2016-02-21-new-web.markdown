@@ -1,0 +1,17 @@
+---
+layout: post
+title: "Estrenamos web"
+date: 2016-02-21 16:54:46
+author: Admin
+categories: 
+- blog 
+- web
+- novedades
+img: desktop.jpg
+thumb: desktop.jpg
+---
+
+<b>¡Nueva web!</b>. CoruñaDevelopers estrena web. Aquí esperamos informaros de las diferentes novedades, jornadas, eventos, talleres, proyectos... y mucho más!
+
+
+[hampden]: https://github.com/jekyll/jekyll
