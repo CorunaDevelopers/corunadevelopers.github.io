@@ -2,25 +2,28 @@
     <div class="container">
         <div class="row">
             <div class="col-lg-4">
-                <h4>About</h4>
+                <h4>Sobre CoruñaDevelopers</h4>
                 <div class="hline-w"></div>
-                <p>{{ site.about }}</p>
+                <p>{{ site.about }}</br><a href="{{ "/about/" | prepend: site.baseurl }}">Más info</a></p>
+				
             </div>
             <div class="col-lg-4">
-                <h4>Social Links</h4>
-                <div class="hline-w"></div>
-                <p>
-                    {% for network in site.social %}
-                        <a href="{{ network.url }}" class="btn-social btn-outline"><i class="fa fa-{{ network.title }}"></i></a>
-                    {% endfor %}
-                </p>
-            </div>
-            <div class="col-lg-4">
-                <h4>Our Bunker</h4>
+                <h4>Dónde encontrarnos</h4>
                 <div class="hline-w"></div>
                 <p>
                     {% for line in site.address.first.lines %}
                         {{ line }} <br>
+                    {% endfor %}
+					<a target="_blank" href="https://www.google.es/maps/place/MANS+-+Fundaci%C3%B3n+Paideia/@43.327173,-8.436533,15z/data=!4m2!3m1!1s0x0:0x11fb1993f9349f3b?sa=X&ved=0ahUKEwi0r_XhxIvLAhVGOhQKHdOKBwAQ_BIIaDAK">Encuéntranos</a>
+                </p>
+				
+            </div>
+            <div class="col-lg-4">
+                <h4>También en redes sociales</h4>
+                <div class="hline-w"></div>
+                <p>
+                    {% for network in site.social %}
+                        <a href="{{ network.url }}" class="btn-social btn-outline"><i class="fa fa-{{ network.title }}"></i></a>
                     {% endfor %}
                 </p>
             </div>

@@ -239,7 +239,7 @@ a:focus {
 
 /* Services Wrap */
 #service {
-	margin-top: 0px;
+	margin-top: 30px;
 	margin-bottom: 0px;
 }
 
@@ -441,7 +441,7 @@ csmall {
 
 /* Contact Page */
 #contactwrap {
-	background: url(../img/contact.jpg) no-repeat center top;
+	background: url(../img/torre4.jpg) no-repeat center top;
 	margin-top: -60px;
 	padding-top:0px;
 	text-align:center;
@@ -505,3 +505,7 @@ a.anchor{
     top: -80px; 
     visibility: hidden;
 }
+
+
+
+
