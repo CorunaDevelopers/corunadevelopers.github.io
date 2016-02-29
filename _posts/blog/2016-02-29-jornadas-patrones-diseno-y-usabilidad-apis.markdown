@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Jornadas patrones y APIs el 11 de marzo"
-date: 2016-02-29 11:00:00
+date: 2016-02-29 03:00:00
 author: Admin
 categories: 
 - blog 
