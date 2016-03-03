@@ -13,7 +13,7 @@ thumb: api-design-and-more-thumb.jpg
 ---
 
 <b>Jornadas de patrones de diseño y usabilidad de APIs!</b>.
-El día 11 de marzo en el edificio MANS celebraremos unas charlas sobre:
+El día 11 de marzoa las 17:00 en el edificio MANS celebraremos unas charlas sobre:
 <ul>
 <li>Patrones de diseño: buenas prácticas para organizar tu código</li>
 <li>Usabilidad de APIs: cómo hacer que un API sea usable por sus clientes</li>
