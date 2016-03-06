@@ -18,6 +18,6 @@ El día 11 de marzo a las 17:00 en el edificio MANS celebraremos unas charlas so
 <li>Patrones de diseño: Buenas prácticas para organizar tu código</li>
 <li>Usabilidad de APIs: Cómo hacer que una API sea usable por sus clientes</li>
 </ul>
-Todas aquellas personas interesadas en asistir, por favor, <a href="http://corunadevelopers.github.io/contact/">poneos en contacto con nosotros</a> para facilitarnos la gestión de estas jornadas. ¡Os esperamos!
+Todas aquellas personas interesadas en asistir, podeis <a href="https://www.facebook.com/events/686354584800865/">inscribiros en el evento de facebook</a> para preveer la asistencia al mismo. ¡Os esperamos!
 
 [hampden]: https://github.com/jekyll/jekyll
