@@ -13,10 +13,10 @@ thumb: api-design-and-more-thumb.jpg
 ---
 
 <b>Jornadas de patrones de diseño y usabilidad de APIs!</b>.
-El día 11 de marzo a las 17:00 en el edificio MANS celebraremos unas charlas sobre:
+El día 11 de marzo a las 17:00 en el edificio MANS celebraremos las siguientes charlas:
 <ul>
-<li>Patrones de diseño: Buenas prácticas para organizar tu código</li>
-<li>Usabilidad de APIs: Cómo hacer que una API sea usable por sus clientes</li>
+<li>17:00 - Usabilidad de APIS - Eduardo Mosqueira (Profesor en FIC)</li>
+<li>18:00 - Estás rodeado de patrones y no lo sabes - Roberto González </li>
 </ul>
 Todas aquellas personas interesadas en asistir, por favor, <a href="http://corunadevelopers.github.io/contact/">poneos en contacto con nosotros</a> para facilitarnos la gestión de estas jornadas. ¡Os esperamos!
 
